@@ -20,7 +20,6 @@ outputs/
 log
 
 # Visual Studio Code
-.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +130,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
